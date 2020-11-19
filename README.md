@@ -1,2 +1,2 @@
 # SATELLITE-HARDWARES
-Stuffs related to satellite hardwares
+Stuffs related to DIY Satellite
